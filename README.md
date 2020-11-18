@@ -1,5 +1,11 @@
 # AngularBreweries
 
+This application fetches API call from https://api.openbrewerydb.org/breweries and displays on an application. More features and styling is to add on.
+
+Styled with SCSS
+
+-------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
 ## Development server

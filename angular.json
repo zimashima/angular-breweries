@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-breweries"
+    }
+  },
+  "defaultProject": "angular-breweries",
+  "cli": {
+    "analytics": "03eeb192-02ed-4d7a-ab60-00d2a42c8027"
+  }
 }
